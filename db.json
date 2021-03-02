@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "SAMSUNG",
+      "price": "12000",
+      "quantity": "350",
+      "selected": true,
+      "available": true,
+      "id": 1
+    },
+    {
+      "name": "HP",
+      "price": "800",
+      "quantity": "270",
+      "selected": false,
+      "available": true,
+      "id": 2
+    }
+  ]
+}
